@@ -2,7 +2,7 @@
 
 https://chrome.google.com/webstore/detail/github-code-wrap/cejlpdpgokleliekienpmkjdiamjpnin
 
-This is an extension that forces codes wrapping on GitHub (only github.com). It applies to the part written ``` ... ``` in markdown.
+This is an extension that forces codes wrapping on GitHub (only github.com). It applies to the part written \`\`\` ... \`\`\` in markdown.
 
 Especially when pasting access logs and error logs on GitHub Issues, they will be displayed long horizontally.
 This extension wraps them.
